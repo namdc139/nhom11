@@ -1,2 +1,2 @@
 bai nhom 11
-them hoac bot vao tap nay
+ghi thong tin: ho va ten, ngay thang nam sinh, que quan
